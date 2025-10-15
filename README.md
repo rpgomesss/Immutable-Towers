@@ -41,3 +41,6 @@ A documentação do projeto pode ser gerada recorrendo ao [Haddock](https://hask
 ```bash
 cabal haddock
 ```
+# Developed by:  
+[Rui Gomes](https://github.com/rpgomesss)  
+[Ricardo Rodrigues](https://github.com/RicA111225)
